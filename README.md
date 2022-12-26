@@ -1,1 +1,1 @@
-# reddit_api_Samvel_Petrosyan
+# reddit-feed-app
